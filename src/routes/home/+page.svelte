@@ -49,6 +49,42 @@
 			room_name: 'Garden ',
 			time: '15 Hours',
 			price: 'Rp 6.560.392'
+		},
+		{
+			href: resolve('category/kitchen'),
+			rating: '4.8',
+			img: 'https://picsum.photos/id/29/200/300',
+			title: 'Home Family Theater Best Lights Installation',
+			room_name: 'Living Room',
+			time: '15 Hours',
+			price: 'Rp 8.560.392'
+		},
+		{
+			href: resolve('category/kitchen'),
+			rating: '4.8',
+			img: 'https://picsum.photos/id/12/200/300',
+			title: 'Cold Storage Room',
+			room_name: 'Storage ',
+			time: '15 Hours',
+			price: 'Rp 3.100.392'
+		},
+		{
+			href: resolve('category/Lab'),
+			rating: '4.8',
+			img: 'https://picsum.photos/id/14/200/300',
+			title: 'Laboratory with Best Lights Installation',
+			room_name: 'Laboratory',
+			time: '10 Hours',
+			price: 'Rp 2.560.392'
+		},
+		{
+			href: resolve('category/kitchen'),
+			rating: '4.8',
+			img: 'https://picsum.photos/id/23/200/300',
+			title: 'Rumah Sendok Garpu',
+			room_name: 'Garden ',
+			time: '15 Hours',
+			price: 'Rp 6.560.392'
 		}
 	];
 </script>
